@@ -1,0 +1,42 @@
+
+.container{margin-top:150px;}
+
+
+h1{text-align: center;}
+p{padding: 10px 250px;
+text-align: center;
+}
+
+h4{border-bottom: solid 2px;
+  padding: 10px 0 ;
+
+}
+.free{
+margin: 0 25px;
+  width: 300px;
+height: 350px;
+text-align: center;
+display: inline-block;
+border: solid 2px;
+}
+.freep{height: 250px;
+width: 150px;
+display: inline-block;
+}
+
+.par{padding: 0;
+width: 150px;
+text-align: center;
+}
+
+.Button{margin-top: 40px;
+  height: 50px;
+  width: 250px;
+font-size: 18px;
+border-radius: 6%;
+border-color:blue;
+background-color: white;
+
+color: blue;
+position: relative;
+right: 49px;
